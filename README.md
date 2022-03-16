@@ -17,6 +17,5 @@ then go .github/workflows/*.yml
 
 Change username environment variable 
 
-And That's it.
-
 ©ElytrA8
+And That's it.
